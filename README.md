@@ -6,7 +6,7 @@ This repository is a tutorial on how to use transfer learning for training your 
 
 This project was done for an autonomous driving challenge where the classifier was used in a mobile platform for the detection of objects like cars, pedestrians, and emergency vehicles. 
 
-[![Link to working of algorithm](https://youtu.be/1kALd3zfaS8)
+[![Link to working of algorithm!](https://youtu.be/1kALd3zfaS8)
 
 
 ##Introduction
@@ -15,13 +15,13 @@ Inorder to train your neural network, TensorFlow with GPU support has to be inst
 
 The tutorial also clearly explains on how to create your own classifier. If you have followed it carefully, you will have a .pb file in the end which you can deploy from C++. A corresponding labelmap.pbtxt is utilized by the python script to display the names of the custom objects next to the bounding boxes.
 
-[![Link to the tutorial by Edje Electronics](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
+[![Link to the tutorial by Edje Electronics!](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)
 
 ##Building TensorFlow in Windows
 Skip this part if you dont want to use TensorFlow from C++.
 This is again another tutorial which i followed for setting the TensorFlow C++ library. 
 
-[![Link to the tutorial by AnononimousIndonesian](http://anonimousindonesian.blogspot.com/2017/12/tutorial-how-to-build-tensorflow-on.html)
+[![Link to the tutorial by AnononimousIndonesian!](http://anonimousindonesian.blogspot.com/2017/12/tutorial-how-to-build-tensorflow-on.html)
 
 
 ##Using the Frozen .pb file from C++
