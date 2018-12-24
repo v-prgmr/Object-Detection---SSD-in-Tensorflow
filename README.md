@@ -6,7 +6,7 @@ This repository is a tutorial on how to use transfer learning for training your 
 
 This project was done for an autonomous driving challenge where the classifier was used in a mobile platform for the detection of objects like cars, pedestrians, and emergency vehicles. 
 
-![Link to working of algorithm](master/SSD_Detection.PNG)(https://youtu.be/1kALd3zfaS8)
+![Link to working of algorithm](image/SSD_Detection.PNG)(https://youtu.be/1kALd3zfaS8)
 
 
 ## Prereqisities
