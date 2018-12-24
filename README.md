@@ -72,7 +72,7 @@ In the source file "SSD_Source.cpp", change the location on the line 26 to the l
 ```
 std::string TF_PB_PATH = "Full path of your frozen_inference_graph.pb";
 ```
-On the line 27, chnage the location to the location of "labels.txt" file.
+On the line 27, change the location to the location of "labels.txt" file.
 
 ```
 std::string TF_LABELLIST_PATH = "Full path of your labels.txt";
