@@ -83,6 +83,6 @@ Run the source code from Release and x64 Configuration and the object detection 
 
 ## Authors
 
-* **Vishal Rajendra Kumar** - *Initial work* - [vishal-prgmr](https://github.com/v-prgmr)
+* **Vishal Rajendra Kumar** - *Initial work* - [Vishal Rajendra Kumar](https://github.com/v-prgmr)
 
 * **Edgar Welte** - [Edgar Welte](https://github.com/edw6463)
